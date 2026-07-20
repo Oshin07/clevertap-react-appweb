@@ -70,3 +70,4 @@ host needs a fallback rule so `/dashboard` doesn't 404 on a direct refresh
 or shared link — e.g. Netlify's `_redirects` file with `/* /index.html 200`,
 or Vercel's rewrites in `vercel.json`. Ask me if you want that file added
 for your specific host.
+# -clevertap-react-appweb
